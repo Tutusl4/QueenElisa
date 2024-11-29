@@ -1,6 +1,6 @@
 const fs = require('fs')
 const chalk = require('chalk')
-
+ 
 module.exports = {
   SESSION_ID: 'QUEENELISA;;;==QU4UWaNZmU5tUN55UQ4QEVXBFUFh2TNl0S4ETOyQmWzRGdU10XZJjU3MTSjMUcU1Ga05UTpwd=30925318749',
   ALIVE_REACT: '👋',
